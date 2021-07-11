@@ -105,12 +105,6 @@ padding-left: 10px;
 	margin-left: 30px;
 	font-size: 22px;
 }
-.text {
-	display: inline-block;
-	width: 930px;
-	vertical-align: middle;
-	margin-left: 15px;
-}
 .image-bloc {
 	display: inline-block;
 	margin-left: 30px;
@@ -126,5 +120,43 @@ padding-left: 10px;
 	margin-top: 10px;
 	margin-left: 30px;
 	color: #3D58A6;
+}
+.kartuli-absoluturi {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.kartuli-relatiuri {
+	font-family: 'ALK Life'
+}
 
+
+.latinuri-absoluturi { 
+	font-family: 'Roboto', sans-serif;
+}
+.latinuri-relatiuri {
+	 font-family: 'Zen Loop'
+}
+.text1 {
+	display: inline-block;
+	width: 930px;
+	vertical-align: middle;
+	margin-left: 15px;
+	text-indent:5%;
+	font-family: "ALK Life"
+
+}
+.text2 {
+	display: inline-block;
+	width: 930px;
+	vertical-align: middle;
+	margin-left: 15px;
+	text-indent:5%;
+	font-family: "BPG Nino Mtavruli Bold"
+}
+.text3 {
+	display: inline-block;
+	width: 930px;
+	vertical-align: middle;
+	margin-left: 15px;
+	text-indent:5%;
+	font-family: 'ALK Life'
 }
